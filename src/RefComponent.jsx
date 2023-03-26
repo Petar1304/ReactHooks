@@ -1,6 +1,6 @@
 import {useRef} from 'react';
 
-const RefCompoenent = () => {
+const RefComponent = () => {
     
   const inputRef = useRef(null);
 

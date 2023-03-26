@@ -1,5 +1,6 @@
 import RefComponent from "./RefComponent";
 import ReducerComponent from "./ReducerComponent";
+import Parent from "./ComponentsWithUseContext/Parent";
 
 const App = () => {
 
@@ -7,6 +8,7 @@ const App = () => {
     <div>
       <RefComponent />
       <ReducerComponent />
+      <Parent />
     </div>
   );
 };
