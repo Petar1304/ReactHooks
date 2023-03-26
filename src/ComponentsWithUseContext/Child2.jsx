@@ -1,4 +1,4 @@
-// import { useContext } from "react";
+import { useContext } from "react";
 import { CountContext } from "./Parent";
 
 const Child2 = () => {
